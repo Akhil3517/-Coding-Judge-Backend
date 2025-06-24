@@ -21,7 +21,8 @@ A robust backend service using Node.js to support a multi-language coding judge 
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/Akhil3517/-Coding-Judge-Backend.git
+    git clone https://github.com/Akhil3517/
+    Coding-Judge-Backend.git
     cd code-judge-backend
     ```
 2.  **Install dependencies:**
